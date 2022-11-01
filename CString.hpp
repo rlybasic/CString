@@ -8,6 +8,9 @@
 //THIS IS A HACK!!!
 //Anyways we do assert
 #pragma warning(disable: 6387)
+//CString.hpp update #1:
+//You should patch MSVC to decrease your executable size.
+//Or just use GetProcAddress (based)
 #pragma comment(lib, "shlwapi.lib")
 
 #ifndef STRINGIZE_EXPAND
