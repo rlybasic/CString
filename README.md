@@ -1,5 +1,5 @@
 # CString
-Really lightweight implementation of std::string in plain WinAPI. (may be missing some features)
+Really lightweight (just header) implementation of std::string in plain WinAPI. (may be missing some features)
 
 ## How to use
 It's... simple?
