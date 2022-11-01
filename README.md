@@ -3,7 +3,7 @@ Really lightweight implementation of std::string in plain WinAPI. (may be missin
 
 ## How to use
 It's... simple?
-`
+`cpp
 #include <Windows.h>
 #include "CString.hpp"
 
