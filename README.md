@@ -8,8 +8,8 @@ It's... simple?
 #include "CString.hpp"
 
 int main() {
-	CString str("katch is the best");
-	str.replace("katch", "xWhitey");
+	CString str("hatch is the best");
+	str.replace("hatch", "xWhitey");
 	WriteConsoleA(GetStdHandle(STD_OUTPUT_HANDLE), str.c_str(), str.length(), NULL, NULL);
 }
 ```
